@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "C:\\Users\\Administrator\\.virtualenvs\\django3-mysite-Gob5pYlp\\Scripts\\python.exe",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true
+}
