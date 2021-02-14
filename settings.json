@@ -1,0 +1,40 @@
+{
+    "telemetry.enableTelemetry": false,
+    "telemetry.enableCrashReporter": false,
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "editor.fontSize": 15,
+    "breadcrumbs.enabled": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.statusBar.feedback.visible": false,
+    "editor.renderControlCharacters": false,
+    "editor.renderWhitespace": "none",
+    "workbench.startupEditor": "newUntitledFile",
+    "python.formatting.provider": "black",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python"
+    },
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=100",
+        "--ignore=W503, E203"
+    ],
+    "python.formatting.yapfArgs": [
+        "--style=google"
+    ],
+    "python.formatting.blackArgs": [
+        "--skip-string-normalization"
+    ],
+    "[html]": {
+        "editor.defaultFormatter": "lonefy.vscode-JS-CSS-HTML-formatter"
+    },
+    "python.showStartPage": false,
+    "python.languageServer": "Pylance",
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "python.dataScience.interactiveWindowMode": "perFile",
+    "workbench.editorAssociations": [],
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.analysis.typeCheckingMode": "basic"
+}
